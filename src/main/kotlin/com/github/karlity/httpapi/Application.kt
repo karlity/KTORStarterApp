@@ -1,4 +1,4 @@
-package com.jetbrains.handson.httpapi
+package com.github.karlity.httpapi
 
 import io.ktor.application.Application
 
